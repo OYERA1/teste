@@ -1,0 +1,11 @@
+[
+    {
+        "firstName": "teste",
+        "lastName": "teste2",
+        "username": "teste",
+        "hash": "$2a$10$51V1pJgjrZufro2qYFaZaeS7teOMd0d/N8I.RbgGT1R/WL4L1H2oS",
+        "id": 1,
+        "dateCreated": "2023-10-04T23:26:52.758Z",
+        "dateUpdated": "2023-10-04T23:26:52.758Z"
+    }
+]
